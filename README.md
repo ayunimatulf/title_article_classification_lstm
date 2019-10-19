@@ -27,7 +27,7 @@ In this discussion that will be split as 3 process, pre-processing data, predict
       <br />This is model.summary() from the deep learning architecture :
       ![Model Summary](https://github.com/ayunimatulf/title_article_classification_lstm/blob/master/2.png)
    9.	In the model has added callbacks using EarlyStopping for stopping epoh when min_delta of loss is 0.0001
-   10. Result of model training
+   10. Result of model training <br />
        ![Training Verbose](https://github.com/ayunimatulf/title_article_classification_lstm/blob/master/3.png)
    11. This is plot of Loss and Accuracy from train data and validate data where validate data set 20% from train data.<br />
        ![Training Loss](https://github.com/ayunimatulf/title_article_classification_lstm/blob/master/4.png)
