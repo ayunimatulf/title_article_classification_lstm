@@ -4,6 +4,9 @@ Model classification for article category with 4 categories funny, sport, entert
 Dataset include 4 categorical text, which the precentage of data is represent in the diagram below.
 ![Data precentage Each Category](https://raw.githubusercontent.com/ayunimatulf/title_article_classification_lstm/master/1.png)
 
+For train dataset can downloaded here :
+https://drive.google.com/file/d/1ai-Vt5-e_2tNAHuu93cnsgWJx4W1auu9/view?usp=sharing
+
 In this discussion that will be split as 3 process, pre-processing data, prediction method, and implementation model.
 1. Pre-processing data.
    1.	Import dataset .json and convert to data frame and drop column ‘id’ because it’s not important for making prediction model
